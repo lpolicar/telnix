@@ -1,0 +1,2 @@
+# telnix
+paly base
